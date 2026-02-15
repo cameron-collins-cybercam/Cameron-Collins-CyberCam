@@ -1,16 +1,19 @@
+# Cameron Collins
+
+Cybersecurity student focused on exposure intelligence, vulnerability research, and detection engineering.
+
+## Areas of Focus
+- CVE / CWE / CVSS analysis
+- Asset discovery & attack surface evaluation
+- Detection template design (Nuclei-style concepts)
+- Python automation for reconnaissance & parsing
+- IoT and embedded device security
+- Virtualized research environments (Proxmox, Docker)
+
+## Current Research Projects
+- Exposure Detection Lab (templated vulnerability identification)
+- Proxmox Multi-Environment Research Lab
+- IoT Device Fingerprinting & Analysis
+
+I’m particularly interested in building detection capabilities that uncover unknown assets and misconfigurations across complex environments.
 ## Hi there 👋
-
-<!--
-**cameron-collins-cybercam/Cameron-Collins-CyberCam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
